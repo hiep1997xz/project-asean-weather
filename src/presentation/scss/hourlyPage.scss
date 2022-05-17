@@ -1,0 +1,68 @@
+.center{
+    text-align: center !important;    
+}
+
+.mgHour{
+    margin-top: 25px;
+}
+
+.mgTemp{
+    margin-top: 21px;
+}
+
+.mgCondition{
+    margin-top: 18px;
+}
+
+.mgRain{
+    margin-top: 15px;
+}
+
+.mgHumidity{
+    margin-top: 15px;
+}
+
+.mgIcon{
+    margin-top: 20px;
+    font-size: 150%;
+}
+
+.mgCard{
+    margin-bottom: 10px;
+}
+
+.mgMain{
+    margin: 15px;
+}
+
+.colScss1{
+    border:5;
+    border-block-end-style:"groove" ;
+}
+
+.colScss2{
+    background-color:"white";
+    border-radius: 5px;
+} 
+
+.colScss3{
+    margin-top: 20px;
+} 
+
+.colScss4{
+    margin-top: 20px;
+    font-size: 25px;
+} 
+
+.colorLocaltime{
+    color: #808080 ;
+}  
+
+.leftSizeHour{
+    position: relative;
+    left: 4%;
+}
+
+.dropdown-hover :hover {
+    cursor: pointer;
+}

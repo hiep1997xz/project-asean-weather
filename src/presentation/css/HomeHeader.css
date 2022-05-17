@@ -1,0 +1,59 @@
+.HomeBody {
+    display: flex;
+    flex-wrap: nowrap;
+    background-color: #CCC;
+    justify-content:center;
+    margin-left: 0px;
+   
+
+}
+
+.Homebody_font {
+    background-color: white;
+    width: 19%;
+    margin-top: 50px;
+    margin-bottom: 20px;
+    margin-left:50px;
+    text-align: center;
+    line-height: 60px;
+    font-size: 30px;
+    padding: 40px;
+    box-shadow: 1px 1px 5px #696969;
+    border-radius: 10px;
+}
+
+.Homebody_font>h4 {
+    float: left;
+}
+
+/* .Homebody_font>h3{
+    float: left;
+    font-size: 28px;
+} */
+
+.Homebody_font>h5{
+    font-size: 15px;
+    float: left;
+    opacity: 0.8;
+
+}
+
+.Homebody_font>h3{
+    float: center;
+    font-size: 120px;
+    color: #36f;
+}
+
+.Homebody_font>div{
+    float: left;
+    font-size: 20px;
+    line-height: 25px;
+    font-weight: 450;
+}
+
+.center {
+    text-align: center !important;
+}
+a.click-Here:hover{  
+    cursor: pointer;
+};

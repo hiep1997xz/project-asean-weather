@@ -1,0 +1,4 @@
+export const searchV2ActionType = {
+    GET_SEARCHV2_SUCCESS: "[WA] GET_SEARCHV2_SUCCESS",
+    GET_SEARCHV2_FAIL: "[WA] GET_SEARCHV2_FAIL",
+}

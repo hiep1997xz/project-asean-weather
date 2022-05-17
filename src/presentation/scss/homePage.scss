@@ -1,0 +1,38 @@
+.card_home {
+    background-color: white;
+    border-radius: 7px;
+}
+
+.card_home:hover {
+    cursor: pointer;
+}
+
+.margin_bottom {
+    margin-bottom: 0px;
+}
+
+.temperatureHP {
+    color: blue !important;
+}
+
+.searchStyle{
+    background-color: white !important;
+    height: 45px !important;
+}
+
+#inputSearch {
+    width: 85% !important;
+    height: 48px;
+    font-size: 24px;
+    border: none !important;
+    border-radius: 4px !important;
+    padding-left: 15px;
+}
+
+.notfound {
+    color: red;
+}
+
+.updateInfor {
+    font-size: 12px;
+}

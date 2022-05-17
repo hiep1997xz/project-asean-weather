@@ -1,0 +1,21 @@
+@import "./leftBar.scss";
+
+$grey: rgba(0,0,0,0.5);
+$greenGmail: rgba(15,157,88,1);
+$yellowGmail: rgba(244,180,0,1);
+.btnScssNB1 {
+    color: $grey;
+    height: 30px;
+    background-color: rgba(235,235,235,1);
+    border-top-left-radius: 0px;
+    border-top-right-radius: 0px;
+    border-bottom-left-radius: 0px;
+    border-bottom-right-radius: 0px;
+    border: none !important;
+    border-bottom: 2px solid black !important;
+}    
+
+.btnScssNB1:hover {
+    color: black !important;
+    background-color: rgb(255, 255, 255) !important;
+}

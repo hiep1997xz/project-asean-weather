@@ -1,0 +1,145 @@
+$disCP1: 30px;
+$disCP2: 20px;
+$disCP3: 24px;
+$disCP4: 20px;
+.leftSide {
+    position: relative;
+    left: 5%;
+}
+
+.leftSide1 {
+    position: relative;
+    left: 10%;
+}
+
+.card-custom {
+    background-color: white;
+    border-radius: 5px;
+}
+
+.TNM {
+    font-family: "Arial";
+}
+
+.real-feel {
+    font-size: $disCP2;
+    margin-left: 1.5%;
+}
+.temperature {
+    margin-top: -20px;
+    margin-bottom: -10px;
+    font-size: 100px;
+    color: black;
+}
+
+.condition-text {
+    font-size: $disCP2;
+    margin-left: -8%;
+    color:rgb(156,34,93);
+}
+
+.condition-img {
+    margin-top: 30px;
+}
+
+.under-icon {
+    font-size: $disCP2;
+}
+
+.textRight {
+    text-align: right;
+}
+
+.showIconDetail {
+    font-size: $disCP3;
+    color:rgb(156,34,93);
+}
+
+.showIconDetail1{
+    font-size: $disCP4;
+    color:rgb(156,34,93);
+}
+
+.border-bottom {
+    border-bottom: 2px solid black;
+}
+
+.colScssCD1 {
+    margin-right: 7%;
+}
+
+.colScssCD2 {
+    margin-left: -4%;
+}
+
+.colScssCD3 {
+    margin-right: 4%
+}
+
+.showAqi {
+    font-size: 48px;
+    text-align: center;
+    margin-bottom: 10px;
+    margin-left: -3%;
+}
+
+.reviewAqi {
+    text-align: justify;
+}
+
+.showAstroIcon {
+    margin-top: -10px;
+}
+
+.showAstroSunTime {
+    margin-top: 27px;
+}
+
+.showAstroTimeTextRight {
+    text-align: right !important;
+}
+
+.showAstroMoonTime {
+    margin-top: 27px;
+}
+
+.margin_bottom_normal {
+    margin-bottom: 0px;
+}
+
+.rowScssCP1{
+    margin-left: 4px;
+}
+
+.green {
+    color: rgb(0,228,0);
+}
+
+.yellow {
+    color: rgb(250,237,39);
+}
+
+.orange {
+    color: rgb(237,126,0);
+}
+
+.red {
+    color: rgb(255,0,0);
+}
+
+.violet {
+    color: rgb(143,63,151);
+}
+
+.brown {
+    color: rgb(126,0,35);
+}
+
+div.delete-city :hover {
+    color: #dd2b0e;
+    cursor: pointer;
+}
+
+div.card-hover :hover {
+    cursor: pointer;
+}

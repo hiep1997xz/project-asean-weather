@@ -1,0 +1,4 @@
+export const listUsersActionType = {
+    GET_LISTUSERS_SUCCESS: "[BE] GET_LISTUSERS_SUCCESS",
+    GET_LISTUSERS_FAIL: "[BE] GET_LISTUSERS_FAIL",
+}

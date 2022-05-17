@@ -1,0 +1,32 @@
+$redGmail: rgba(234, 67, 53,1);
+$blueFacebook: rgba(66,103,178,1);
+$positionLB1: relative;
+$fontSizeLB1: 40px;
+
+.colorScssLB1 {
+    color: $redGmail;
+    font-size: $fontSizeLB1;
+    float: right;
+}
+
+.colorScssLB2 {
+    color: $blueFacebook;
+    font-size: $fontSizeLB1;
+    float: right;
+}
+
+.colorScssLB3 {
+    margin-top: 4px;
+    color: $redGmail;
+    font-size: $fontSizeLB1*3/4;
+    float: right;
+    
+    z-index: 1000;
+    padding: 3px;
+    border: none;
+    border-radius: 4px;
+}
+
+.onHover {
+    cursor: pointer;
+}
